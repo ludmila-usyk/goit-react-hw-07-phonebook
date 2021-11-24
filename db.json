@@ -1,0 +1,49 @@
+{
+    "contacts": [
+      {
+        "id": "id-2",
+        "name": "Hermione Kline",
+        "number": "443-89-12"
+      },
+      {
+        "id": "id-3",
+        "name": "Eden Clements",
+        "number": "645-17-79"
+      },
+      {
+        "id": "id-4",
+        "name": "Annie Copeland",
+        "number": "227-91-26"
+      },
+      {
+        "name": "Oksana",
+        "number": "34566",
+        "id": "-n9E5Y4"
+      },
+      {
+        "name": "Оксана Чорна",
+        "number": "1111111",
+        "id": "BiYthU7"
+      },
+      {
+        "name": "Cat White",
+        "number": "780986",
+        "id": "tjl3RSs"
+      },
+      {
+        "name": "Кира",
+        "number": "879009",
+        "id": "IsD3hDL"
+      },
+      {
+        "name": "Мурка",
+        "number": "345663",
+        "id": "TkjQqRl"
+      },
+      {
+        "name": "Boo",
+        "number": "11115553",
+        "id": "B1wt7ed"
+      }
+    ]
+  }
